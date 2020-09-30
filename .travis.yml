@@ -23,4 +23,4 @@ deploy:
     secure: ff91bc17-0b91-4cad-9102-192e00c20e0d
   app: dev-ops-brunoqnodin-4linux
 on:
-  repo: brunoqnodin/dev-ops-brunoqnodin-4linux
+  repo: brunoqnodin@gmail.com/dev-ops-brunoqnodin-4linux
