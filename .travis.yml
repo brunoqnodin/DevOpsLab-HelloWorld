@@ -21,7 +21,8 @@ deploy:
   provider: heroku
   api-key: 
     secure: aae7afc3-0315-457e-bebf-7e63341395c1
-  on: master  
-  app: dev-ops-brunoqnodin-4linux
+  on:
+    tags: true
+    all_branches: true
 
 #  repo: brunoqnodin/dev-ops-brunoqnodin-4linux
