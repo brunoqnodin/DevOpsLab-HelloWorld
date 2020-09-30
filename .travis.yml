@@ -20,7 +20,7 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: ff91bc17-0b91-4cad-9102-192e00c20e0d
+    secure: aae7afc3-0315-457e-bebf-7e63341395c1
   app: dev-ops-brunoqnodin-4linux
 #on:
 #  repo: brunoqnodin/dev-ops-brunoqnodin-4linux
