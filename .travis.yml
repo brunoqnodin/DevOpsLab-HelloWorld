@@ -22,3 +22,5 @@ deploy:
   api-key: 
     secure: $HEROKU_API_KEY
   app: dev-ops-brunoqnodin-4linux
+on:
+  repo: brunoqnodin/dev-ops-brunoqnodin-4linux
